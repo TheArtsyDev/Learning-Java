@@ -69,9 +69,6 @@ public class Area {
         System.out.println("Area of the Rectangle :" + area);
 
 
-
-
-
         scanner.close();
 
 
